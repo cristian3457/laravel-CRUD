@@ -1,0 +1,15 @@
+{
+    "Contact": "Contacto",
+    "Home": "Inicio",
+    "Portfolio": "Portafolio",
+    "Projects": "Portafolio",
+    "About": "Quienes Somos",
+    "Register": "Registrar",
+    "Logout": "Cerrar sesión",
+    "Reset Password Notification": "Notificación para restablecer la contraseña",
+    "Reset Password": "Restablecer Contraseña",
+    "This password reset link will expire in": "Este enlace de restablecimiento de contraseña caducará en",
+    "minutes": "minutos",
+    "If you did not request a password reset, no further action is required": "Si no solicitó un restablecimiento de contraseña, no es necesario realizar ninguna otra acción",
+    "Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.": "¿Olvidaste tu contraseña? No hay problema. Simplemente díganos su dirección de correo electrónico y le enviaremos un enlace para restablecer la contraseña que le permitirá elegir una nueva."
+}
